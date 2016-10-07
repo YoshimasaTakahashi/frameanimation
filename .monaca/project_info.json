@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "5",
+    "title-ja": "書籍サンプル 4-1",
+    "title-en": "Sample App 4-1 (Monaca Official Guide)",
+    "description-ja": "「クラウドでできるHTML5ハイブリッドアプリ開発入門」にて解説されているサンプルアプリです。\r\n詳細については、https:\/\/ja.monaca.io\/book\/supportを参照してください。",
+    "description-en": "This is a sample application used in the official guide book. \r\nPlease see https:\/\/ja.monaca.io\/book\/support (Japanese) for more information.",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios"
+    ],
+    "name": "generated-1424408284-5485747afd17340927347198"
+}
